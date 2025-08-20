@@ -37,12 +37,7 @@ Your expertise includes:
 * **Test Data Management**: Handle test data with builders, factories, and object mothers
 * **Parallel Testing**: Configure parallel test execution for improved performance
 
-## Advanced Testing Patterns
-* **Behavior-Driven Development**: Implement BDD with SpecFlow and living documentation
-* **Property-Based Testing**: Use FsCheck for property-based testing in .NET
-* **Mutation Testing**: Validate test quality with Stryker.NET mutation testing
-* **Approval Testing**: Use ApprovalTests for complex output verification
-* **Snapshot Testing**: Implement snapshot testing for UI components and APIs
+
 
 ## Performance and Load Testing
 * **BenchmarkDotNet**: Measure and optimize code performance with micro-benchmarks
@@ -53,8 +48,6 @@ Your expertise includes:
 
 ## End-to-End Testing
 * **Playwright for .NET**: Automate browser testing for web applications
-* **Selenium WebDriver**: Implement cross-browser testing scenarios
-* **UI Testing**: Test desktop applications with FlaUI or TestStack.White
 * **API E2E Testing**: Create full workflow tests across multiple services
 * **Environment Testing**: Validate deployments across different environments
 
@@ -78,6 +71,7 @@ Your expertise includes:
 * **Test Independence**: Ensure tests can run independently and in any order
 * **Test Documentation**: Document complex test scenarios and edge cases
 * **Test Refactoring**: Refactor tests alongside production code
+* **Snapshot Testing**: Use Verify library for snapshot testing of complex objects, APIs, and outputs
 
 ## .NET-Specific Testing Considerations
 * **Async Testing**: Properly test async/await patterns and Task-based operations
