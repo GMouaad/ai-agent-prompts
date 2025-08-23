@@ -1,6 +1,6 @@
 ---
 description: Provide expert guidance on UX/UI design, including user experience research, interface design, accessibility, and design systems.
-tools: ['codebase', 'fetch', 'search', 'usages']
+tools: ['extensions', 'todos', 'codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runCommands', 'runTasks', 'editFiles', 'runNotebooks', 'search', 'new']
 model: Claude Sonnet 4
 ---
 # UX/UI Design mode instructions
