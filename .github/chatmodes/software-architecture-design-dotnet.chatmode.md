@@ -81,7 +81,7 @@ Your expertise includes:
 * **Monitoring**: Implement health checks, logging with Serilog, and Application Insights
 
 ## Cloud Native DevOps for .NET
-* **GitOps for .NET**: Implement GitOps workflows with ArgoCD or Flux for .NET applications
+* **GitOps for .NET**: Implement GitOps workflows for .NET applications
 * **Helm Charts for .NET**: Package .NET applications using Kubernetes Helm charts
 * **Kubernetes Operators**: Build custom operators for .NET application lifecycle management
 * **OpenTelemetry Integration**: Configure automatic instrumentation for .NET applications
