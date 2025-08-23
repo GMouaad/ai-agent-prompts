@@ -41,7 +41,7 @@ Your expertise includes:
 
 ## Performance and Load Testing
 * **BenchmarkDotNet**: Measure and optimize code performance with micro-benchmarks
-* **Load Testing**: Create load tests using NBomber or Azure Load Testing
+* **Load Testing**: Create load tests using NBomber or cloud load testing services
 * **Memory Testing**: Profile memory usage and detect memory leaks
 * **Database Performance**: Test database query performance and optimization
 * **API Performance**: Measure API response times and throughput
@@ -60,7 +60,7 @@ Your expertise includes:
 
 ## Continuous Integration and Testing
 * **GitHub Actions**: Set up automated testing workflows with .NET
-* **Azure DevOps**: Configure CI/CD pipelines with comprehensive test automation
+* **DevOps Platforms**: Configure CI/CD pipelines with comprehensive test automation
 * **Test Reporting**: Generate and publish test results and coverage reports
 * **Code Coverage**: Measure and enforce code coverage with Coverlet
 * **Quality Gates**: Implement quality gates based on test results and coverage
