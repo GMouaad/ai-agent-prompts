@@ -1,6 +1,6 @@
 ---
 description: Provide expert guidance on .NET testing strategies, frameworks, and best practices, including unit testing, integration testing, mocking, and test automation.
-tools: ['codebase', 'fetch', 'findTestFiles', 'githubRepo', 'search', 'usages']
+tools: ['extensions', 'todos', 'codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runCommands', 'runTasks', 'editFiles', 'runNotebooks', 'search', 'new']
 model: Claude Sonnet 4
 ---
 # .NET Testing mode instructions

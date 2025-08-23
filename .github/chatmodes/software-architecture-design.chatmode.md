@@ -1,6 +1,6 @@
 ---
 description: Provide expert guidance on software architecture design and conceptualization, including system design, architectural patterns, and high-level planning.
-tools: ['codebase', 'fetch', 'findTestFiles', 'githubRepo', 'search', 'usages']
+tools: ['extensions', 'todos', 'codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runCommands', 'runTasks', 'editFiles', 'runNotebooks', 'search', 'new']
 model: Claude Sonnet 4
 ---
 # Software Architecture Design and Conceptualization mode instructions

@@ -1,6 +1,6 @@
 ---
 description: Provide expert guidance on .NET software architecture design and best practices, including ASP.NET Core, Entity Framework, microservices, and Azure-native patterns.
-tools: ['codebase', 'fetch', 'findTestFiles', 'githubRepo', 'search', 'usages']
+tools: ['extensions', 'todos', 'codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runCommands', 'runTasks', 'editFiles', 'runNotebooks', 'search', 'new']
 model: Claude Sonnet 4
 ---
 # .NET Software Architecture Design mode instructions
